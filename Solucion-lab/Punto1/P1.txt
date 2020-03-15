@@ -1,0 +1,7 @@
+¿Cuál es el valor de la variable en el proceso hijo?
+
+    El valor de x en el proceso hijo es igual a 100
+
+¿Qué sucede con la variable cuando el proceso hijo y el padre cambian el valor de x?
+
+    La variable se modifica de manera independiente entre el proceso padre y el proceso hijo. Cada uno crea su propia instancia de la variable.

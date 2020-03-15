@@ -1,0 +1,7 @@
+¿Pueden el padre y el hijo acceder al file descriptor retornado por open()?
+
+    Sí, ambos pueden acceder
+
+¿Qué pasa si ellos empiezan a escribir el archivo de manera concurrente, es decir, a la misma vez?
+
+    Ambos procesos escriben sobre el mismo archivo

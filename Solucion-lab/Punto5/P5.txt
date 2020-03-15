@@ -1,0 +1,8 @@
+Escriba ahora un programa que use wait() para esperar que el proceso hijo finalice su ejecución. 
+¿Cuál es el valor de retorno de la función wait()?
+
+    El valor de retorno de la función wait() es el pid del hijo
+
+¿Qué pasa si usted usa la función wait en el hijo?
+
+    El retorno de la función será -1 para indicar que no es válido.

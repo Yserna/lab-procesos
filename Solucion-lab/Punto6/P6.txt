@@ -1,0 +1,4 @@
+¿Cuándo podría ser waitpid() útil?
+
+Teniendo en cuenta que waitpid() suspende la ejecución del proceso esperando a un hijo especifico, 
+esta función es útil cuando se tiene varios hijos.

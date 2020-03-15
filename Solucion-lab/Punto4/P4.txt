@@ -1,0 +1,3 @@
+¿Por qué piensa usted que existen tantas variaciones para la misma llamada básica?
+
+    Para adaptar los argumentos de la función de acuerdo a la necesidad que se presente en casos específicos. 

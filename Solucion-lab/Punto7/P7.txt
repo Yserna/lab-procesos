@@ -1,0 +1,4 @@
+Escriba un programa que cree un proceso hijo y entonces en el proceso hijo cierre la salida estandar (STDOUT FILENO). 
+¿Qué pasa si el hijo llama printf() para imprimir alguna salida después de cerrar el descriptor?
+
+    Una vez se cierra la salida estandar, no se mostrará en pantalla nada de lo que se encuentre en la función printf.
